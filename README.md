@@ -34,8 +34,10 @@ Tenho interesse especial em:
 * Princípios de orientação a objetos
 * Padrões de projeto (Facade, Singleton, Strategy)
 
-**Certificação**
+**Cursos**
 
+* Introdução a programação em Java (SENAI)
+* Introdução a programação em Python (SENAI)
 * Microsoft Azure AI-900 (Fundamentals)
 
 ---
@@ -114,8 +116,8 @@ Bot desenvolvido em **Python**, com sistema completo de RPG integrado.
 
 ## 📫 Contato
 
-* GitHub: (a definir)
-* Discord: (a definir)
+* [GitHub](https://github.com/iVZ8)
+* Discord: ivz8
 
 ---
 
