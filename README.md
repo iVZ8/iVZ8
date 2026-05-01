@@ -21,10 +21,10 @@ Tenho interesse especial em:
 
 **Linguagens e Tecnologias**
 
+* Java
 * HTML, CSS, JavaScript
 * Python
 * C# (.NET / ASP.NET Core MVC)
-* Java
 * SQL
 
 **Ferramentas e Práticas**
