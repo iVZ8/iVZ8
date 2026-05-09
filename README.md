@@ -1,128 +1,103 @@
-# VZ8
+<h1 align="center">VZ8</h1>
 
-Desenvolvedor de software com foco em aplicações práticas, arquitetura de sistemas e desenvolvimento de soluções voltadas a jogos e automação.
-
----
-
-## 📌 Sobre
-
-Atuo no desenvolvimento de sistemas com ênfase em **organização, clareza estrutural e eficiência**. Busco construir soluções sólidas, com baixo acoplamento e facilidade de manutenção, evitando complexidade desnecessária.
-
-Tenho interesse especial em:
-
-* Arquitetura de software
-* Desenvolvimento de sistemas interativos
-* Automação de processos
-* Criação de mecânicas para jogos
+<p align="center">
+  Fullstack Developer • ADS Student • Backend Enthusiast
+</p>
 
 ---
 
-## 🧠 Competências Técnicas
+## About Me
 
-**Linguagens e Tecnologias**
+Currently studying <strong>Analysis and Systems Development</strong> at <strong>FATEC</strong> — 2nd semester.
 
-* Java
-* HTML, CSS, JavaScript
-* Python
-* C# (.NET / ASP.NET Core MVC)
-* SQL
-
-**Ferramentas e Práticas**
-
-* Git & GitHub
-* Modelagem de banco de dados (SQLite, SQL relacional)
-* Princípios de orientação a objetos
-* Padrões de projeto (Facade, Singleton, Strategy)
-
-**Cursos**
-
-* Introdução a programação em Java (SENAI)
-* Introdução a programação em Python (SENAI)
-* Microsoft Azure AI-900 (Fundamentals)
+Focused on backend development, object-oriented programming, software architecture and practical project development.
 
 ---
 
-## 🛠️ Ferramentas de Desenvolvimento
+## Technologies
 
-* IntelliJ IDEA
-* Nobara Linux
-
----
-
-## 🚀 Projetos
-
-### 🔹 Mod para Minecraft (Fabric API) — *Em desenvolvimento*
-
-Desenvolvimento de um mod utilizando a **Fabric API**, com foco na criação de sistemas customizados para servidores.
-
-**Características:**
-
-* Implementação de mecânicas próprias
-* Integração com sistemas existentes do servidor
-* Estrutura modular para expansão futura
-* Ênfase em desempenho e controle do ambiente
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,cs,python,javascript,html,css,git,github,mysql" />
+</p>
 
 ---
 
-### 🔹 Sistema de Reserva de Salas — ASP.NET Core MVC
+## Education & Courses
 
-Aplicação web desenvolvida em **C#** utilizando ASP.NET Core MVC para gerenciamento de reservas em ambiente hoteleiro.
-
-**Aspectos técnicos:**
-
-* Arquitetura baseada em MVC
-* Aplicação de padrões de projeto:
-
-  * Facade
-  * Singleton
-  * Strategy
-* Separação clara de responsabilidades
-* Foco em escalabilidade e organização do código
+- Fullstack ASP .NET Core MVC — Facade, Strategy and Singleton (FATEC)
+- Introduction to Java Programming (SENAI)
+- Introduction to Python Programming (SENAI)
+- Microsoft Azure AI-900 Fundamentals
 
 ---
 
-### 🔹 Bot de Discord com Sistema de RPG
+## Knowledge
 
-Bot desenvolvido em **Python**, com sistema completo de RPG integrado.
-
-**Funcionalidades:**
-
-* Sistema de progressão de personagens
-* Economia interna
-* Persistência de dados com SQLite3
-* Comandos estruturados e expansíveis
-* Gerenciamento de estado e eventos
+- Object-Oriented Programming
+- Scrum
+- REST APIs
+- Git Flow
+- Backend Development
+- Software Architecture Fundamentals
 
 ---
 
-## 🎯 Diretrizes de Desenvolvimento
+## Projects
 
-* Priorizar soluções claras e funcionais
-* Aplicar padrões de projeto quando agregam valor real
-* Manter código organizado e de fácil manutenção
-* Minimizar dependências desnecessárias
-* Desenvolver com foco em escalabilidade
+### legendsUtils
+Utility mod for Minecraft using Fabric API.
 
----
-
-## 📈 Objetivos
-
-* Evoluir no desenvolvimento de sistemas robustos e bem arquitetados
-* Expandir projetos voltados a jogos e automação
-* Consolidar conhecimento em arquitetura e boas práticas
-* Desenvolver soluções reutilizáveis e consistentes
+**Stack**
+- Java
+- Fabric API
+- Gradle
 
 ---
 
-## 📫 Contato
+### Java Portfolio
+Repository containing Java projects and studies.
 
-* [GitHub](https://github.com/iVZ8)
-* Discord: ivz8
+**Stack**
+- Java
+- OOP
+
+---
+
+### Hotel Room Reservation System
+Room reservation and management system developed during the Fullstack course.
+
+**Stack**
+- C#
+- ASP .NET Core MVC
+- SQL Server
 
 ---
 
-## 📄 Licença
+### Discord RPG Bot
+Discord RPG bot with automated systems and commands.
 
-Este repositório pode ser licenciado conforme necessidade do projeto (ex: MIT, GPL, etc.).
+**Stack**
+- Python
+- Discord.py
 
 ---
+
+## GitHub Stats
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=transparent&hide_border=true"/>
+</p>
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=transparent&hide_border=true"/>
+</p>
+
+---
+
+## Contact
+
+<p align="left">
+  <a href="https://github.com/SEU_USUARIO">GitHub</a><br>
+  <a href="https://linkedin.com/in/SEU_LINKEDIN">LinkedIn</a><br>
+  Discord: seu_usuario
+</p>
