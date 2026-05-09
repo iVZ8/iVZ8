@@ -1,7 +1,11 @@
-<h1 align="center">VZ8</h1>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=VZ8&fontAlign=50&fontAlignY=40&color=0:0f0f0f,100:1f1f1f&fontColor=ffffff&desc=Fullstack%20Developer%20•%20ADS%20Student&descAlignY=60&animation=fadeIn"/>
+
+</div>
 
 <p align="center">
-  Fullstack Developer • ADS Student • Backend Enthusiast
+  <img src="https://skillicons.dev/icons?i=java,cs,python,javascript,html,css,git,github,mysql" />
 </p>
 
 ---
@@ -11,14 +15,6 @@
 Currently studying <strong>Analysis and Systems Development</strong> at <strong>FATEC</strong> — 2nd semester.
 
 Focused on backend development, object-oriented programming, software architecture and practical project development.
-
----
-
-## Technologies
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,cs,python,javascript,html,css,git,github,mysql" />
-</p>
 
 ---
 
@@ -33,63 +29,57 @@ Focused on backend development, object-oriented programming, software architectu
 
 ## Knowledge
 
-- Object-Oriented Programming
-- Scrum
-- REST APIs
-- Git Flow
-- Backend Development
-- Software Architecture Fundamentals
-
----
-
-## Projects
-
-### legendsUtils
-Utility mod for Minecraft using Fabric API.
-
-**Stack**
-- Java
-- Fabric API
-- Gradle
-
----
-
-### Java Portfolio
-Repository containing Java projects and studies.
-
-**Stack**
-- Java
-- OOP
-
----
-
-### Hotel Room Reservation System
-Room reservation and management system developed during the Fullstack course.
-
-**Stack**
-- C#
-- ASP .NET Core MVC
-- SQL Server
-
----
-
-### Discord RPG Bot
-Discord RPG bot with automated systems and commands.
-
-**Stack**
-- Python
-- Discord.py
-
----
-
-## GitHub Stats
-
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img src="https://img.shields.io/badge/Object--Oriented%20Programming-111111?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Scrum-111111?style=for-the-badge" />
+<img src="https://img.shields.io/badge/REST%20API-111111?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Git%20Flow-111111?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Backend-111111?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Software%20Architecture-111111?style=for-the-badge" />
+
 </p>
 
+---
+
+# Projects
+
+## legendsUtils
+
+Utility mod for Minecraft using Fabric API.
+
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=transparent&hide_border=true"/>
+  <img src="https://skillicons.dev/icons?i=java,gradle" />
+</p>
+
+---
+
+## Java Portfolio
+
+Repository containing Java projects and studies.
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java" />
+</p>
+
+---
+
+## Hotel Room Reservation System
+
+Room reservation and management system developed during the Fullstack course.
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,mysql" />
+</p>
+
+---
+
+## Discord RPG Bot
+
+Discord RPG bot with automated RPG systems and commands.
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,discord" />
 </p>
 
 ---
@@ -97,7 +87,21 @@ Discord RPG bot with automated systems and commands.
 ## Contact
 
 <p align="left">
-  <a href="https://github.com/SEU_USUARIO">GitHub</a><br>
-  <a href="https://linkedin.com/in/SEU_LINKEDIN">LinkedIn</a><br>
-  Discord: seu_usuario
+  <a href="https://github.com/iVZ8">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+
+  <a href="https://linkedin.com/in/gabrielribeiromoraes">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+
+  <a href="https://discord.com/users/ivz8">
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1f1f,100:0f0f0f&height=120&section=footer"/>
 </p>
