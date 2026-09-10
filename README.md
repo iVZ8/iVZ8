@@ -12,7 +12,7 @@
 
 ## About Me
 
-Currently studying <strong>Analysis and Systems Development</strong> at <strong>FATEC</strong> — 2nd semester.
+Currently studying <strong>Analysis and Systems Development</strong> at <strong>FATEC</strong> — 3nd semester.
 
 Focused on backend development, object-oriented programming, software architecture and practical project development.
 
@@ -24,6 +24,7 @@ Focused on backend development, object-oriented programming, software architectu
 - Introduction to Java Programming (SENAI)
 - Introduction to Python Programming (SENAI)
 - Microsoft Azure AI-900 Fundamentals
+- Microsoft Azure AI-102
 
 ---
 
